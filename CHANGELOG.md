@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/DavidNowakowski/release-please-test-maven/compare/v1.1.0...v1.1.1) (2023-10-12)
+
+
+### Bug Fixes
+
+* **Readme:** Edit directly on main ([e3c7eef](https://github.com/DavidNowakowski/release-please-test-maven/commit/e3c7eef20f7e8d0d8e8aa8c18f96e08a5788b0f5))
+
 ## [1.1.0](https://github.com/DavidNowakowski/release-please-test-maven/compare/v1.0.0...v1.1.0) (2023-10-12)
 
 
