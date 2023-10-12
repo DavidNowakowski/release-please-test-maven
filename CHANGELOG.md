@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.1 (2023-10-12)
+
+## What's Changed
+* chore(develop): release 1.4.1-SNAPSHOT by @github-actions in https://github.com/DavidNowakowski/release-please-test-maven/pull/19
+
+
+**Full Changelog**: https://github.com/DavidNowakowski/release-please-test-maven/compare/v1.4.0...v1.4.1
+
 ## 1.4.0 (2023-10-12)
 
 ## What's Changed
