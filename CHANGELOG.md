@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/DavidNowakowski/release-please-test-maven/compare/v1.0.0...v1.1.0) (2023-10-12)
+
+
+### Features
+
+* **Readme:** Created Readme ([ecd0142](https://github.com/DavidNowakowski/release-please-test-maven/commit/ecd0142d94e1e6d37ab954024dd7d9f2efc552bf))
+
 ## 1.0.0 (2023-10-12)
 
 
